@@ -4,7 +4,8 @@ email:       chase.davis@gmail.com
 author:      Chase Davis
 description: "LOREM"
 baseurl:     ""
-url:         "https://www.chasedavis.com"
+domain:      "cjdd3b.github.io"
+url:         "https://cjdd3b.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
