@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other ways I can help
+title: Ways I can help
 permalink: /help/
 tags: help
 ---
