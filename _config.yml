@@ -1,8 +1,9 @@
 # Site settings
 title:       "Chase Davis | chasedavis.com"
+header_title: "Chase Davis"
 email:       chase.davis@gmail.com
 author:      Chase Davis
-description: "LOREM"
+description: "Chase is a journalist who works at the intersection of journalism, data and technology."
 baseurl:     ""
 domain:      "cjdd3b.github.io"
 url:         "https://cjdd3b.github.io"
