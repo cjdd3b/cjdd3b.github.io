@@ -9,6 +9,9 @@ url:         "https://cjdd3b.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - consulting.md
+ - help.md
+ 
 
 # Google services
 google_verification:
