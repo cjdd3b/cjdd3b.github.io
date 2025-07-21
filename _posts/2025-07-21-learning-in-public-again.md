@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning in public (again)
-date: 2025-05-13 10:22
+date: 2025-07-21 10:22
 summary: I used to have a habit of learning in public. I'm looking forward to trying that again.
 categories:
 ---
